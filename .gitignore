@@ -1,0 +1,4 @@
+sub-app-vue/node_modules/
+sub-app-angular/node_modules/
+sub-app-react16/node_modules/
+main-app/node_modules/
