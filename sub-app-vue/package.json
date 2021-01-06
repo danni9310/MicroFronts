@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.8.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "single-spa-vue": "^1.5.2",
     "vue": "^2.5.11",
