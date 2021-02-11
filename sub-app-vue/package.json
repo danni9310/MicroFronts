@@ -11,7 +11,7 @@
     "serve": "node scripts/http-server.js dist 8080"
   },
   "dependencies": {
-    "apexcharts": "^3.8.3",
+    "apexcharts": "^3.24.0",
     "axios": "^0.19.0",
     "babel-polyfill": "^6.26.0",
     "single-spa-vue": "^1.5.2",
